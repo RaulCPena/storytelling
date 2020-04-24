@@ -1,4 +1,14 @@
-*.csv
 .DS_Store
+.idea
+*.iml
+*.log
+.idea
+*.iml
+*.csv
+
+untidy
+
 .ipynb_checkpoints/
-_pycache_/
+__pycache__
+
+.vscode/
