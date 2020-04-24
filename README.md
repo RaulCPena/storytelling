@@ -10,7 +10,6 @@ This project was to find the best fit colleges based on Madelines' criteria. Thi
 - [ ] Notebook with report of the findings
 - [ ] `.csv` file
 - [ ] `.py` files:
-    - [x] acquire.py 
     - [ ] prepare.py
     
 - [ ] Presentation to include slides
@@ -22,8 +21,7 @@ This project was to find the best fit colleges based on Madelines' criteria. Thi
 
 ## Planning
 - [ ] Acquire
-    - [ ] acquire.py
-        - [ ] pd.read_csv 
+    - [ ] pd.read_csv 
        
     - [ ] Notebook
         - [ ] Demonstrate acquire.py
