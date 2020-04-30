@@ -5,6 +5,8 @@
 .idea
 *.iml
 *.csv
+*.png
+*.xlsx
 
 untidy
 
