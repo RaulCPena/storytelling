@@ -7,38 +7,38 @@ This project was to find the best fit colleges based on Madelines' criteria. Thi
 
 ## Goals
 
-- [ ] Notebook with report of the findings
-- [ ] `.csv` file
+- [x] Notebook with report of the findings
+- [x] `.csv` file
 - [ ] `.py` files:
     - [ ] prepare.py
     
-- [ ] Presentation to include slides
-- [ ] Completed README
+- [x] Presentation to include slides
+- [x] Completed README
 
 ## How to Reproduce
 
 **In progress**
 
 ## Planning
-- [ ] Acquire
-    - [ ] pd.read_csv 
+- [x] Acquire
+    - [x] pd.read_csv 
        
-    - [ ] Notebook
+    - [x] Notebook
         - [ ] Demonstrate acquire.py
         - [ ] Summarize data
         
 - [ ] Prepare
     - [ ] prepare.py
-        - [ ] filter columns
-        - [ ] Handle Missing Values
-            - [ ] Handle datatype issues
+        - [x] filter columns
+        - [x] Handle Missing Values
+            - [x] Handle datatype issues
         
-    - [ ] Notebook
-        - [ ] Explore missing values and document takeaways/action plans for handling them.
-        - [ ] Document takeaways
-        - [ ] Explore datatypes
+    - [x] Notebook
+        - [x] Explore missing values and document takeaways/action plans for handling them.
+        - [x] Document takeaways
+        - [x] Explore datatypes
         - [ ] Demonstrate prepare.py works by running it
-- [ ] Exploration
+
 
 
 ## Data Dictionary
