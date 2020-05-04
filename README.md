@@ -1,4 +1,4 @@
-# Storytelling Projecte
+# Storytelling Project
 
 
 ## Description
